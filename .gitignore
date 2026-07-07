@@ -1,0 +1,22 @@
+# Local project instructions and operational notes
+AGENTS.md
+DEVELOPMENT_NOTES.md
+logs.md
+instruct-tips-for-android-smart.txt
+
+# Local tooling
+.tokensave/
+local.properties
+
+# Android Studio / IntelliJ
+*.iml
+.idea/
+
+# Gradle / Android generated files
+.gradle/
+build/
+app/build/
+
+# Build outputs
+*.apk
+*.aab
